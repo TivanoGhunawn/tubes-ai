@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+       jeruk       0.75      0.50      0.60        12
+      pepaya       0.50      0.75      0.60         8
+
+    accuracy                           0.60        20
+   macro avg       0.62      0.62      0.60        20
+weighted avg       0.65      0.60      0.60        20
