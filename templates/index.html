@@ -31,8 +31,8 @@
                     rounded-lg
                 "
             >
-                <h1 class="text-3xl text-bold">AI Klasifikasi Daun</h1>
-                <h1 class="text-3xl text-bold">Jeruk Nipis vs Pepaya</h1>
+                <h1 class="text-3xl text-bold">Klasifikasi Daun</h1>
+                <h1 class="text-3xl text-bold">Jeruk Nipis & Pepaya</h1>
 
                 {% if uploaded_image %}
                 <img
@@ -53,11 +53,11 @@
                     "
                 >
                     <p class="text-center">
-                        Masukkan gambar daun Jeruk Nipis atau daun Pepaya
+                        Masukkan gambar terlebih dahulu
                     </p>
                 </div>
                 {% endif %} {% if prediction %}
-                <p class="mb-8">Hasil Prediksi: {{prediction}}</p>
+                <p class="mb-8">Daun yang terprediksi: {{prediction}}</p>
                 {% endif %}
 
                 <form
@@ -80,7 +80,7 @@
                         type="submit"
                         class="p-4 bg-yellow-500 text-white rounded-md"
                     >
-                        Prediksi Gambar
+                        Prediksi Daun
                     </button>
                 </form>
             </main>
