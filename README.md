@@ -1,4 +1,4 @@
-# Dataset
+# Klasifikasi Daun Pepaya dan Daun Jeruk Nipis
 
 ## Deskripsi singkat
 Dalam penyusunan project ini menggunakan 1 dataset yaitu 
