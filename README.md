@@ -6,5 +6,4 @@ Dalam penyusunan project ini menggunakan 1 dataset yaitu
 2. Daun Jeruk Nipis : 50 Image
 
 Dataset dapat diliat pada link berikut https://github.com/TivanoGhunawn/DatasetAI.git
-
 Lalu Teknik Deep Learning yang digunakan adalah Model dengan menggunakan algoritma CNN (Convolutional Neural Network)
