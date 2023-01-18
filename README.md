@@ -22,3 +22,5 @@ Sebelum masuk ke metode CNN terdapat tiga tahapan utama, yang terdiri atas input
 
 Daun memiliki banyak fitur, seperti bentuk, tekstur dan pola. Maka dari itu paper ini fokus pada pengenalan daun melalui warna, tekstur, ukuran, dan bentuknya menggunakan metode CNN. Convolutional Neural Network merupakan salah satu jenis algoritme Deep Learning yang dapat menerima input berupa gambar, menentukan aspek atau obyek apa saja dalam sebuah gambar yang bisa digunakan mesin untuk “belajar” mengenali gambar, dan membedakan antara satu gambar dengan yang lainnya.Data yang sudah dikumpulkan akan diklasifikasi menggunakan metode CNN dan menghasilkan akurasi seperti tabel dibawah ini.
 
+# Author
+Tivano Ghunawan 201910370311080
