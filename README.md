@@ -28,5 +28,13 @@ Daun memiliki banyak fitur, seperti bentuk, tekstur dan pola. Maka dari itu pape
 2. Buka URL dengan browser, coba masukkan gambar Jeruk Nipis atau Pepaya yang ingin di prediksi.
 3. Anda akan diberikan prediksi bahwa pada gambar tersebut adalah Jeruk Nipis atau Pepaya pada halaman website.
 
+
+# Jika web tidak dapat diakses
+1. Download file github saya dilink berikut https://github.com/TivanoGhunawn/tubes-ai.git
+2. Buka terminal/command prompt/power shell pada lokasi file yang diinstal
+3. Pastikan sudah menginstall semua dependency/package Python dengan pip install -r requirements.txt
+4. Jalankan API menggunakan perintah python app.py
+5. Akses program melalui website http://127.0.0.1:5000/.
+
 # Author
 Tivano Ghunawan 201910370311080
