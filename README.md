@@ -36,5 +36,10 @@ Daun memiliki banyak fitur, seperti bentuk, tekstur dan pola. Maka dari itu pape
 4. Jalankan API menggunakan perintah python app.py
 5. Akses program melalui website http://127.0.0.1:5000/.
 
+# Output Program 
+![Tampilan awal](https://user-images.githubusercontent.com/80324658/213426414-6a766519-35ff-47e1-912e-2e9c90f3fd97.png)
+![Tampilan Akhir](https://user-images.githubusercontent.com/80324658/213426460-533ee9fe-03bf-4e08-8401-9568f6a9bf9d.png)
+
+
 # Author
 Tivano Ghunawan 201910370311080
